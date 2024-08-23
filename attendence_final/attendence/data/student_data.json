@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Samarth",
+        "Enroll": 201240116001,
+        "Email": "201240116001.it@gmail.com",
+        "img_path": "data\\images\\i_201240116001.png",
+        "Department": "IT",
+        "Semester": 7
+    },
+    {
+        "Name": "Aamir",
+        "Enroll": 201240116013,
+        "Email": "201240116013.it@gmail.com",
+        "img_path": "data\\images\\i_201240116001.png",
+        "Department": "IT",
+        "Semester": 7
+    },
+    {
+        "Name": "darshan",
+        "Enroll": 201240116018,
+        "Email": "201240116018.it@gmail.com",
+        "img_path": "data\\images\\i_201240116001.png",
+        "Department": "IT",
+        "Semester": 7
+    },
+    {
+        "Name": "jay",
+        "Enroll": 201240116017,
+        "Email": "201240116017.it@gmail.com",
+        "img_path": "data\\images\\i_201240116001.png",
+        "Department": "IT",
+        "Semester": "7"
+    }
+]
